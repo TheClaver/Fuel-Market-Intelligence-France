@@ -10,7 +10,7 @@ Dashboard Power BI d'analyse des prix des carburants en France : couverture nati
 
 Le carburant fait l'actualité pour de mauvaises raisons prix qui flirtent avec les 3 €/litre, disparités régionales, fermetures de stations. Ce projet part d'une question simple : **que disent réellement les chiffres**, au-delà des impressions ?
 
-Le dashboard analyse **9 808 stations-service** recensées en France métropolitaine, à travers **6 types de carburants** et **13 régions**, en croisant les prix avec des données démographiques (densité de population, revenu moyen) pour identifier ce qui influence réellement les prix — et ce qui, contrairement à l'intuition, n'a aucun effet.
+Le dashboard analyse **9 808 stations-service** recensées en France métropolitaine, à travers **6 types de carburants** et **13 régions**, en croisant les prix avec des données démographiques (densité de population, revenu moyen) pour identifier ce qui influence réellement les prix  et ce qui, contrairement à l'intuition, n'a aucun effet.
 
 ## 🔍 Insights clés
 
