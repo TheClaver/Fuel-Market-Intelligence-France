@@ -77,8 +77,8 @@ Conséquence assumée dans la conception du dashboard : les analyses comparent l
 ## 📁 Sources des données
 
 - [data.gouv.fr](https://data.economie.gouv.fr/explore/dataset/prix-des-carburants-en-france-flux-instantane-v2/) Prix des carburants, Ministère de l'Économie
-- [Base Adresse Nationale (BAN)](https://api-adresse.data.gouv.fr/) — Géocodage
-- INSEE — Population, densité et revenu par région (projections 2026)
+- [Base Adresse Nationale (BAN)](https://api-adresse.data.gouv.fr/) : Géocodage
+- INSEE: Population, densité et revenu par région (projections 2026)
 
 ## 👤 Auteur
 
